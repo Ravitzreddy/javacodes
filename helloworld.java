@@ -1,3 +1,4 @@
+/*Sample Java Code*/
 class HelloWorld 
 {
     public static void main(String args[]) 
